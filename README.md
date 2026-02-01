@@ -80,4 +80,4 @@ Object-Oriented Programming Concepts
 Conclusion
 
 This project demonstrates key Java concepts such as REST API consumption, HTTP communication, JSON response handling, and layered application architecture. It provides a strong foundation for beginners learning real-world Java API integration.
-Sample Output
+Sample Output>>>>><img width="1374" height="496" alt="Image" src="https://github.com/user-attachments/assets/08d2ce84-b0a5-422e-8f64-2c2f0579e82d" />
